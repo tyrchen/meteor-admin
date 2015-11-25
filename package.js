@@ -1,8 +1,8 @@
 Package.describe({
-  name: "yogiben:admin",
-  summary: "A complete admin dashboard solution",
-  version: "1.2.3",
-  git: "https://github.com/yogiben/meteor-admin"
+  name: "tyrchen:admin",
+  summary: "A complete admin dashboard solution (forked from CaptainN/meteor-admin)",
+  version: "1.2.4",
+  git: "https://github.com/tyrchen/meteor-admin"
 });
 
 Package.on_use(function(api){
